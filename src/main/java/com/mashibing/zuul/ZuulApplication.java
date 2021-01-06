@@ -12,4 +12,9 @@ public class ZuulApplication {
         SpringApplication.run(ZuulApplication.class, args);
     }
 
+    public String ste(){
+        return "";
+    }
+
+
 }
